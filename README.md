@@ -7,7 +7,7 @@
 
 
 
-![](https://raw.githubusercontent.com/mrmccormack/1000-vader/master/darth-mobile-small.jpg)
+![](https://raw.githubusercontent.com/mrmccormack/1000-vader/master/Github Card.jpg)
 
 > Requirements for a professional website
 
