@@ -7,7 +7,7 @@
 
 
 
-![](https://raw.githubusercontent.comhttps://github.com/adomeni/1000-shaggy/master/Github Card.jpg)
+![](https://github.com/adomeni/1000-shaggy/blob/master/Github%20Card.jpg)
 
 > Requirements for a professional website
 
